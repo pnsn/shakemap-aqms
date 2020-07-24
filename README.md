@@ -1,5 +1,5 @@
 # shakemap-aqms
-ShakeMap modules supporting the AQMS system.
+ShakeMap modules supporting the AQMS system - PostgreSQL branch.
 
 These modules replace queue, eq2xml, and db2xml from ShakeMap V3.5.
 
