@@ -1,3 +1,7 @@
+# OLD AND UNMAINTAINED - archived
+
+See: https://gitlab.com/aqms-swg/aqms-shakemap instead
+
 # shakemap-aqms
 ShakeMap modules supporting the AQMS system.
 
